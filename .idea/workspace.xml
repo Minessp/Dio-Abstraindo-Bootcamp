@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09d78b41-2f91-4d33-a53b-a41b369bfa83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/msp/desafio/domain/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/msp/desafio/domain/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/msp/desafio/domain/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/msp/desafio/domain/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="357AGj9Vy7gSYSFbkNPK6hkagtz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762450642928</updated>
       <workItem from="1762450645047" duration="37000" />
-      <workItem from="1762450721640" duration="1593000" />
+      <workItem from="1762450721640" duration="4475000" />
     </task>
     <servers />
   </component>
